@@ -1,0 +1,1 @@
+# Ciclo de vida en componentes de tipo clase
